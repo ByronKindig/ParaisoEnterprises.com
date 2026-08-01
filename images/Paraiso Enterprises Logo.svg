@@ -1,0 +1,17 @@
+<svg version="1.1" viewBox="0 0 160.21 156.39" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="a" x1="40.159" x2="207.45" y1="106.86" y2="106.86" gradientUnits="userSpaceOnUse">
+      <stop style="stop-color:#770b00" offset="0"/>
+      <stop style="stop-color:#ff8215;stop-opacity:.87059" offset=".12754"/>
+      <stop style="stop-color:#fff524" offset=".23924"/>
+      <stop style="stop-color:#07af03" offset=".38659"/>
+      <stop style="stop-color:#000dc1" offset=".53402"/>
+      <stop style="stop-color:#8f0090" offset=".76347"/>
+      <stop style="stop-color:#e100c6" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(-24.413 -2.6279)">
+    <path id="b" d="m178.68 104.8a56.041 56.041 0 0 1-56.041 56.041 56.041 56.041 0 0 1-56.041-56.041 56.041 56.041 0 0 1 56.041-56.041 56.041 56.041 0 0 1 56.041 56.041z" style="fill:none;paint-order:stroke fill markers"/>
+    <text transform="rotate(195 111.07 96.284)" style="fill:url(#a);font-family:Amiri;font-size:39.864px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:.41275px;line-height:1;paint-order:stroke fill markers;stroke-dasharray:1.03346, 1.03346;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:.1;stroke-opacity:.76606;stroke-width:.17224;stroke:#f5ff00;word-spacing:-.8599px" xml:space="preserve"><textPath style="fill:url(#a);font-family:Amiri;font-size:39.864px;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold" xlink:href="#b">Paraiso Enterprises</textPath></text>
+  </g>
+</svg>
